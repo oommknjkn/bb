@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "",
+		"prefix": "!",
+		"secret": "",
+		"status": "online",
+		"token": "",
+		"url": "http://localhost"
+	},
+	"app": {
+		"port": 3000
+	}
+}
